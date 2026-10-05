@@ -1,5 +1,11 @@
 # LAPORAN PRAKTIKUM BLOCKCHAIN
 
+
+Nama Kelompok
+Putra Rais Hakim
+Fakhri Mukhtasib
+
+
 **Mata Kuliah:** Teknologi Blockchain / Keamanan Informasi  
 **Topik:** Implementasi Proof of Work (PoW), Nonce, Difficulty, dan Validasi Integritas Rantai pada Sistem Pelacakan Rantai Pasok Kopi  
 ---
